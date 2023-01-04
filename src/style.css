@@ -1,0 +1,7 @@
+.btn.cart-count::before, a.btn.cart-count::before {
+    content: '\e934'
+}
+
+.site-name {
+    display: none
+}
