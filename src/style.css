@@ -1,7 +1,8 @@
 .btn.cart-count::before, a.btn.cart-count::before {
-    content: '\e934'
+    content: '\e922';
+    font-size: 24px;
 }
 
-.site-name {
+.site-name img {
     display: none
 }
